@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1511042035 source:c:\users\william\desktop\ciphers\c\playfaircipher\playfair.c
+	<stdio.h>
+	<string.h>
+
